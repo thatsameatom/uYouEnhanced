@@ -77,7 +77,6 @@ jobs:
         with:
           repository: theos/theos
           ref: 13c22376b5d83ff759c1993de0a861e673aa522b
-          submodules: recursive
           path: theos
           submodules: recursive
       
